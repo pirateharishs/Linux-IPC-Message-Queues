@@ -21,12 +21,8 @@ Execute the C Program for the desired output.
 # PROGRAM:
 
 ## C program that receives a message from message queue and display them
-```
-developed by:STEPHEN RAJ.Y
-register no:212223230217
-```
 
-writer.c
+
 ```
 // C Program for Message Queue (Writer Process) 
 #include <stdio.h> 
